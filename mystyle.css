@@ -1,0 +1,13 @@
+        h1 {font-family:monospace;font-size: 300%;background-color:rgb(36, 36, 36);color:white}
+        h2 {font-family:monospace;font-size:120%;color:white}
+        h3 {font-family: monospace;font-size:120%;color:rgb(129, 2, 97);}
+        table {margin:auto; padding:0px; border:none}
+        a:hover {color:rgb(129, 2, 97);}
+        .tekstas {width:80%; font-family:Verdana, Geneva, Tahoma, sans-serif;padding:20px;}
+        .nuoroda {color:rgb(207, 146, 15);font-size:110%;text-decoration:none;font-family:monospace}
+        .puslapis {color:rgb(16, 140, 156);font-family:monospace;font-size:110%;font-style:initial;text-decoration:none}
+        .fonas {background-color:rgb(36, 36, 36);margin:0px;padding:0px;border:none}
+        body {background-color: rgb(241, 241, 241); margin:0
+        }
+        img {margin-left:auto; margin-right:auto;height:300px;}
+        #id {font-family:mono}
