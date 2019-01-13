@@ -1,0 +1,278 @@
+.info{
+    position:fixed;
+    top:0px;
+    right:5%;
+    float:right;
+    height:90%;
+    width:300px;
+    background-image:url("info.png");
+    
+    z-index:2;
+}
+a {
+    color:#0bd7e2;
+    text-decoration:none;
+}
+.pav1 {
+    width:200px;
+    margin-left:50px;
+    margin-top:50px;
+}
+.ul {
+    margin-top:10px;
+    margin-bottom:10px;
+    list-style-type: square;
+    font-size:15px;
+}
+ul {
+    margin:0;
+    padding:0;
+    margin-top:50px;
+    list-style-type: none;   
+}
+li {
+    margin-top:10px;
+    margin-left:50px;
+}
+.li{
+    margin-right:50px;
+    text-align:center;
+    color:white;
+}
+.apie{
+    font-size:25px;
+    text-decoration:none;
+    margin-top:15px;
+    margin-left:10px;
+    margin-right:10px;
+    color:rgb(196, 6, 97);
+}
+.meniu{
+    color:rgb(255, 255, 255);
+    height:max-content;
+    text-align:center;
+    margin-top:15px;
+    background-color: rgba(255, 255, 255, .0);
+    width:300px
+}
+.meniu:hover{
+    background-color: rgba(255, 255, 255, 0.8);
+    color:rgb(196, 6, 97);
+}
+.ikona{
+    width:50px;
+    margin-right:25px;
+    float:left;
+}
+.antraste{
+    width:100%;
+    height:100px;
+    background-color: rgb(247, 241, 212);
+    position:fixed;
+    top:0;
+    z-index: 1;
+}
+.tekstasAntraste{   
+    font-size:55px;
+    height:80px;
+    width:100%;
+    margin-left:50px;
+    margin-top:10px;
+}
+body {
+    size:100%;
+    margin:0;
+    background-color:rgb(43, 36, 36);
+    font-family:"FreeMono", monospace;
+}
+.eilute{
+    margin-left:100px;
+    margin-top:150px;
+    width:750px;
+    height:450px;
+    margin-bottom:0;
+}
+.eilute1{
+    margin-left:100px;
+    margin-top:50px;
+    width:750px;
+    height:450px;
+}
+.blokasBendras{
+    float:left;
+    height:450px;
+    width:450px;
+}
+.blokasBendras1{
+    margin-top:0;
+    float:right;
+    height:450px;
+    width:450px;
+}
+.turinysH{
+    float:left;
+    text-align:right;
+    background-color:#eebc0a;
+}
+.turinysH1{
+    text-align:left;
+    float:right;
+    background-color:#0bd7e2;
+}
+.turinysH, .turinysH1 {
+    height:110px;
+    margin-right:0px;
+    margin-left:0px;
+    width:240px;
+}
+.turinysH2, .turinysH3{
+    background-color:#ef0375;
+    height:100px;
+    margin-right:0px;
+    margin-left:0px;
+    width:250px;
+    margin-top:0;
+    margin-bottom:0;
+}
+.turinysK{
+    float:left;
+    text-align:right;
+}
+.turinysK1{
+    text-align:left;
+    float:right;
+}
+.turinysK, .turinysK1 {
+    width:220px;
+    height:20px;
+    color:rgb(255, 255, 255);
+    font-size:15px;
+    margin-top:10px;
+}
+.turinysK2, .turinysK3 {
+    width:230px;
+    height:20px;
+    color:rgb(255, 255, 255);
+    font-size:15px;
+    margin-top:10px;
+    margin-left:10px;
+    margin-left:10px;
+}
+.turinysK2{text-align:right;}
+.turinysK3{text-align:left;}
+.turinysT{
+    float:left;
+    text-align:right;
+    
+}
+.turinysT1{
+    text-align:left;
+    float:right;
+}
+.turinysT, .turinysT1{
+    margin-right:10px;
+    margin-left:10px;
+    width:220px;
+    height:75px;
+    color:rgb(255, 255, 255);
+    font-size:10px;
+    margin-top:10px;
+}
+.turinysT2 {
+    text-align:right;
+}
+.turinysT3{
+    text-align:left;
+}
+.turinysT2, .turinysT3{
+    margin-right:10px;
+    margin-left:10px;
+    width:230px;
+    height:50px;
+    color:rgb(255, 255, 255);
+    font-size:10px;
+    margin-top:10px;
+}
+h2,h3{
+    color:rgb(37, 25, 25);
+    font-size:40px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:10px;
+}
+h4, h5{
+    color:rgb(37, 25, 25);
+    font-size:40px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:0px;
+    margin-bottom:0;
+}
+h2 {text-align:right;}
+h3 {text-align:left;}
+h4 {text-align:right}
+h5 {text-align:left}
+.blokas10,.blokas11{
+    height:200px;
+    width:450px;
+    background-color:rgb(128, 114, 114);
+    margin:0;
+    opacity:0.8
+}
+.blokas11{
+    margin-top:50px;
+}
+.img2 {
+    height:200px;
+    float:left;
+    margin-left:10px;
+}
+.img3 {
+    height:200px;
+    float:right;
+    margin-right:10px;
+}
+.img4{
+    width:250px;
+    margin-top:10px;
+}
+.blokas3, .blokas2{
+    height:450px;
+    width:250px;
+    background-color:rgb(112, 112, 112);
+    float:left;
+    opacity:0.8;
+}
+.blokas2{ 
+    margin-left:50px;
+}
+.blokas10:hover,.blokas11:hover,.blokas2:hover,.blokas3:hover{
+    opacity:1;
+}
+.irasas {
+    width:55%;
+    height:max-content;
+    position:relative;
+    top:200px;
+    left:7%;
+    background-color:rgba(255, 0, 149, 0.2);
+    color:white;
+    padding:50px;
+}
+h6{
+    color:#eebc0a;
+    font-size:40px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:0px;
+    margin-bottom:20px;
+}
+h7{
+    color:#eebc0a;
+    font-size:20px;
+}
+.art {
+    width:100%;
+    margin-top:15px;
+    margin-bottom:15px;
+}
